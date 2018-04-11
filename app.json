@@ -1,0 +1,24 @@
+{
+  "name": "heroku-workshop",
+  "scripts": {
+  },
+  "env": {
+    "LOGDNA_KEY": {
+      "required": true
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+    "logdna",
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
