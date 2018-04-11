@@ -8,9 +8,11 @@ import org.springframework.test.context.junit4.SpringRunner;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class WorkshopApplicationTests {
-
 	@Test
 	public void contextLoads() {
 	}
-
+	@Test
+	public void dummyTest(){
+		System.out.println("foobar!");
+	}
 }
