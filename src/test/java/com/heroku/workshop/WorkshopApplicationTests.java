@@ -15,4 +15,8 @@ public class WorkshopApplicationTests {
 	public void dummyTest(){
 		System.out.println("foobar!");
 	}
+	@Test
+	public void newShinyFeatureTest() {
+		System.out.println("newShinyFeatureTest()");
+	}
 }
