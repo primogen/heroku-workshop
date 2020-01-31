@@ -1,3 +1,4 @@
 # Heroku Workshop
 
-TODO
+Sample project for demonstrating development on Heroku.
+
