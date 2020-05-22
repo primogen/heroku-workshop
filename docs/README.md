@@ -6,7 +6,7 @@ Welcome to the Heroku Workshop!
 
 Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat. 
 
-![overview](./image/circuit_diagram.png)
+![overview](./image/img-placeholder.jpg)
 
 Nunc sed blandit libero volutpat sed cras ornare. Nulla aliquet enim tortor at. Id nibh tortor id aliquet lectus proin nibh. Lorem dolor sed viverra ipsum nunc aliquet bibendum. Ultricies mi quis hendrerit dolor magna eget est. Diam sollicitudin tempor id eu nisl nunc mi. Ipsum suspendisse ultrices gravida dictum fusce ut placerat. Dictum sit amet justo donec. Feugiat scelerisque varius morbi enim. Faucibus nisl tincidunt eget nullam non. Eget duis at tellus at urna condimentum mattis pellentesque. 
 
@@ -25,6 +25,8 @@ Vel turpis nunc eget lorem dolor sed. Et netus et malesuada fames. Risus at ultr
 
 ## Steps
 Feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Quisque egestas diam in arcu. Tortor dignissim convallis aenean et tortor at risus viverra adipiscing. Sed enim ut sem viverra aliquet. Tempus iaculis urna id volutpat lacus. Semper viverra nam libero justo laoreet sit. Mauris pellentesque pulvinar pellentesque habitant. Et ultrices neque ornare aenean euismod elementum nisi. Felis imperdiet proin fermentum leo vel orci porta non pulvinar. Egestas diam in arcu cursus. Vitae justo eget magna fermentum iaculis eu non diam phasellus. Sociis natoque penatibus et magnis dis parturient. Iaculis nunc sed augue lacus viverra vitae. Condimentum lacinia quis vel eros donec ac.
+
+![steps](./image/circuit_diagram.png)
 
 ### Get SpringBoot
 Go to https://spring.io
