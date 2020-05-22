@@ -1,11 +1,18 @@
 # Heroku Workshop
 
 ![image-placeholder](./image/img-placeholder.jpg)
+
 Welcome to the Heroku Workshop!
 
 ## Overview
 
-Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat. Nunc sed blandit libero volutpat sed cras ornare. Nulla aliquet enim tortor at. Id nibh tortor id aliquet lectus proin nibh. Lorem dolor sed viverra ipsum nunc aliquet bibendum. Ultricies mi quis hendrerit dolor magna eget est. Diam sollicitudin tempor id eu nisl nunc mi. Ipsum suspendisse ultrices gravida dictum fusce ut placerat. Dictum sit amet justo donec. Feugiat scelerisque varius morbi enim. Faucibus nisl tincidunt eget nullam non. Eget duis at tellus at urna condimentum mattis pellentesque. Egestas dui id ornare arcu odio ut sem nulla. In hac habitasse platea dictumst quisque sagittis purus sit. Curabitur gravida arcu ac tortor dignissim convallis aenean et. A arcu cursus vitae congue mauris rhoncus. Vitae semper quis lectus nulla at. Ut lectus arcu bibendum at varius vel pharetra vel. Facilisi cras fermentum odio eu. Consectetur libero id faucibus nisl tincidunt eget nullam non nisi.
+Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat. 
+
+Nunc sed blandit libero volutpat sed cras ornare. Nulla aliquet enim tortor at. Id nibh tortor id aliquet lectus proin nibh. Lorem dolor sed viverra ipsum nunc aliquet bibendum. Ultricies mi quis hendrerit dolor magna eget est. Diam sollicitudin tempor id eu nisl nunc mi. Ipsum suspendisse ultrices gravida dictum fusce ut placerat. Dictum sit amet justo donec. Feugiat scelerisque varius morbi enim. Faucibus nisl tincidunt eget nullam non. Eget duis at tellus at urna condimentum mattis pellentesque. 
+
+Egestas dui id ornare arcu odio ut sem nulla. In hac habitasse platea dictumst quisque sagittis purus sit. Curabitur gravida arcu ac tortor dignissim convallis aenean et. 
+
+A arcu cursus vitae congue mauris rhoncus. Vitae semper quis lectus nulla at. Ut lectus arcu bibendum at varius vel pharetra vel. Facilisi cras fermentum odio eu. Consectetur libero id faucibus nisl tincidunt eget nullam non nisi.
 
 ## Requirements
 These are requirements
