@@ -1,12 +1,12 @@
 # Heroku Workshop
 
-![image-placeholder](./image/img-placeholder.jpg)
-
 Welcome to the Heroku Workshop!
 
 ## Overview
 
 Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat. 
+
+![overview](./image/circuit_diagram.png)
 
 Nunc sed blandit libero volutpat sed cras ornare. Nulla aliquet enim tortor at. Id nibh tortor id aliquet lectus proin nibh. Lorem dolor sed viverra ipsum nunc aliquet bibendum. Ultricies mi quis hendrerit dolor magna eget est. Diam sollicitudin tempor id eu nisl nunc mi. Ipsum suspendisse ultrices gravida dictum fusce ut placerat. Dictum sit amet justo donec. Feugiat scelerisque varius morbi enim. Faucibus nisl tincidunt eget nullam non. Eget duis at tellus at urna condimentum mattis pellentesque. 
 
@@ -71,6 +71,8 @@ Dignissim cras tincidunt lobortis feugiat vivamus. Morbi tempus iaculis urna id 
 ## Conclusion
 
 In conclusion, you should have an app in Heroku, by now.
+
+![conclusion](./image/tech_support_cheat_sheet.png)
 
 ### Placerat vestibulum
 Placerat vestibulum lectus mauris ultrices eros in cursus turpis. Velit sed ullamcorper morbi tincidunt ornare massa eget egestas. In tellus integer feugiat scelerisque varius morbi enim nunc. Ultrices mi tempus imperdiet nulla. Aliquam sem et tortor consequat id porta nibh venenatis. Morbi tincidunt augue interdum velit euismod in pellentesque. Phasellus vestibulum lorem sed risus ultricies. Sagittis id consectetur purus ut faucibus pulvinar elementum. Malesuada fames ac turpis egestas maecenas pharetra convallis. Proin nibh nisl condimentum id venenatis a condimentum vitae. Mauris sit amet massa vitae tortor condimentum lacinia quis vel. Eu turpis egestas pretium aenean pharetra magna ac placerat. Orci eu lobortis elementum nibh tellus molestie nunc. Feugiat in ante metus dictum at tempor.
