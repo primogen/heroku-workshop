@@ -1,5 +1,6 @@
 # Heroku Workshop
 
+![image-placeholder](./image/img-placeholder.jpg)
 Welcome to the Heroku Workshop!
 
 ## Overview
